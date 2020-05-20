@@ -1,0 +1,18 @@
+python2
+
+sudo apt install python-pip (install pip for python2)
+
+python2 -m pip install scipy
+python2 -m pip install pyamg
+python2 -m pip install Circuitscape
+
+
+
+pip2 uninstall numpy (as manytime as needed)
+
+pip2 install pyamg==3.2.1
+pip2 install circuitscape==4.0.5
+pip2 install scipy==0.19.0 
+pip2 install numpy==1.12.1
+
+
