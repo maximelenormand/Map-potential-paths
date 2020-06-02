@@ -30,13 +30,13 @@ More details about the model are available in the paper.
 
 ## References
 
-[1] Jahel *et al.* (2019) [Mapping livestock movements in Sahelian Africa.](https://www.nature.com/articles/s41598-020-65132-8) *Scientific Reports* 10, 8339.
+[1] Jahel *et al.* (2020) [Mapping livestock movements in Sahelian Africa.](https://www.nature.com/articles/s41598-020-65132-8) *Scientific Reports* 10, 8339.
 
 ## Citation
 
 If you use this code, please cite:
 
-Jahel *et al.* (2019) [Mapping livestock movements in Sahelian Africa.](https://www.nature.com/articles/s41598-020-65132-8) *Scientific Reports* 10, 8339.
+Jahel *et al.* (2020) [Mapping livestock movements in Sahelian Africa.](https://www.nature.com/articles/s41598-020-65132-8) *Scientific Reports* 10, 8339.
 
 If you need help, find a bug, want to give me advice or feedback, please contact me!
 You can reach me at maxime.lenormand[at]inrae.fr
