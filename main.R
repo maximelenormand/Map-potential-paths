@@ -2,8 +2,7 @@
 library(raster)
 
 # Working directory
-wd="/home/maxime/mmmycloud/Research/Articles/InProgress/MPP/Git"
-setwd(wd)
+#setwd()
 
 # Load function
 source("Model/mpp.R")
